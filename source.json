@@ -13,6 +13,7 @@
         {
             "name": "EmptyPipe",
             "bundleIdentifier": "com.cbruegg.emptypipe.EmptyPipe",
+            "marketplaceID": "6581490914",
             "developerName": "cbruegg",
             "subtitle": "Download videos from Piped instances",
             "localizedDescription": "Download videos from Piped instances.",
