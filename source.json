@@ -22,7 +22,7 @@
             "versions": [
                 {
                     "version": "1.0",
-                    "buildVersion": "2.0",
+                    "buildVersion": "2",
                     "date": "2024-09-30T17:27:54Z",
                     "size": 17955938,
                     "downloadURL": "https://github.com/cbruegg/EmptyPipe/releases/download/v1.0/d22c5cd7-70bd-4e5f-b092-7031613938b8.zip",
