@@ -2,8 +2,6 @@
     "name": "cbruegg's PAL source",
     "subtitle": "Experimental, AltStore PAL only for now.",
     "description": "Welcome to my (experimental) source! Here you'll find all of my apps.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://cbruegg.com",
     "identifier": "com.cbruegg.altstore.source",
     "tintColor": "#4185A9",
@@ -18,7 +16,7 @@
             "developerName": "cbruegg",
             "subtitle": "Download videos from Piped instances",
             "localizedDescription": "Download videos from Piped instances.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "iconURL": "https://github.com/cbruegg/altstore-source/raw/refs/heads/main/apps/emptypipe/icon.png",
             "tintColor": "#5CA399",
             "versions": [
                 {
